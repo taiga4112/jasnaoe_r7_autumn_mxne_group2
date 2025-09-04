@@ -30,7 +30,7 @@
 
 国際海事機関（IMO）による温室効果ガス排出規制の強化に伴い、船舶の脱炭素化は喫緊の課題となっている。
 短期的にはメタノールやバイオ燃料が、中長期的には水素やアンモニアが代替燃料として注目されている#super[@tadros_review_2023]が、これらはいずれも長距離航海においては大容量の燃料タンクを必要とし、陸上側での燃料供給の整備が追いついていないという課題を有する#super[@world2040029 @ZOU2023103583]。
-近年、小型原子炉の開発が進展しており#super[@VUJIC2012288 @en16073224]、これを搭載した原子力推進船#super[@KIM2025100662]はこれらの課題を解決し得る有力な選択肢として位置付けられる#super[@HIRDARIS2014101 @BAYRAKTAR2023112265]。
+近年、小型原子炉の開発が進展しており#super[@VUJIC2012288 @en16073224]、小型原子炉を搭載した原子力推進船#super[@KIM2025100662]はこれらの課題を解決し得る有力な選択肢として位置付けられる#super[@HIRDARIS2014101 @BAYRAKTAR2023112265]。
 しかし、福島第一原子力発電所事故以降、日本における社会的受容性は諸外国に比して低く、事故時の安全確保に関する懸念も大きいため、国内での原子力推進船の社会実装は容易ではない。
 このため、日本において原子力推進船を実装するには、他の代替燃料船と比較して明確かつ圧倒的な優位性を示す必要がある。
 
@@ -145,33 +145,7 @@
 
 #colbreak()
 
-// --------------------------------------------------
-// 参考文献
-// --------------------------------------------------
-// 他の.bibファイルを読み込む場合はこの行を使ってください
-// ただし、現時点では公式フォーマットで定められている英語日本語の併記には対応できていません
 #bibliography("references.bib",
  title: "参　考　文　献",
  style: "libs/jasnaoe-conf/jasnaoe-reference.csl",
  )
-// --------------------------------------------------
-// // 直接定義する場合はこのコードを編集してください
-// #bibliography-list(
-// title: "参　考　文　献", // 参考文献の章のタイトル
-// )[
-// #bib-item(<format-en-journal>)[
-// Family names and initials of all authors: Title of the paper, _abbreviated title of the journal (or conference proceedings),_ number of the volume, number of the issue, numbers of the first and last pages, and year of publication.
-// ]
-// #bib-item(<MakiStochastic2023>)[
-// Maki, A., Hoshino, K., Dostal, L. et al.: Stochastic stabilization and destabilization of ship maneuvering motion by multiplicative noise, _Journal of Marine Science and Technology_, 28, 704–718, 2023.
-// ]
-// #bib-item(<OkuboProduction2023>)[
-// Okubo. Y., Mitsuyuki. T.: Study of the practical application of production planning method using shipbuilding process simulation, _Journal of the Japan Society of Naval Architects and Ocean Engineers_, 37, 115-123, 2023 (in Japanese). \
-// 大久保友結、満行泰河：船舶建造工程シミュレーションを用いた生産計画立案手法の現場適用に関する研究, _日本船舶海洋工学会論文集_, 37, 115-123, 2023.
-// ]
-// #bib-item(<YamamotoStructure1986>)[
-// Yamamoto, Y., Otsubo, H., Sumi, Y., and Fujino, M.: Ship Structural Mechanics, Seizando-Shoten Publishing Co., Ltd., 1986 (in Japanese). \
-// 山本善之、大坪英臣, 角洋一、藤野正隆：船体構造力学、_成山堂書店_、1986。
-// ]
-// ]
-// --------------------------------------------------
