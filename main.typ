@@ -10,8 +10,8 @@
 /*
 論文タイトル(日本語): 日本で原子力推進船は社会実装できるのか - コンセプトと課題を探る
 論文タイトル(英語): Can Nuclear-Powered Ships Be Implemented in Japan? – Exploring Concepts and Challenges
-著者1: 満行泰河, Taiga Mitsuyuki, 横浜国立大学大学院工学研究院, 正会員
-著者2: 田川帆師, Hoshi Tagawa, 国土交通省 国土技術政策総合研究所, 非会員
+著者1: 田川帆師, Hoshi Tagawa, 国土交通省 国土技術政策総合研究所, 非会員
+著者2: 満行泰河, Taiga Mitsuyuki, 横浜国立大学大学院工学研究院, 正会員
 著者3: 中瀬正彦, Masahiko Nakase, 東京科学大学総合研究院, 正会員
 著者4: 桜木智史, Tomofumi Sakuragi, 原子力環境整備促進・資金管理センター, 非会員
 著者5: 安達雅樹, Masaki Adachi, 海上技術安全研究所, 非会員
